@@ -1,0 +1,31 @@
+{
+  "name": "leadiumx-api-docs",
+  "version": "1.0.0",
+  "description": "LeadiumX AI API - Beautiful interactive API documentation",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "api",
+    "documentation",
+    "leadiumx",
+    "voice",
+    "sms",
+    "email"
+  ],
+  "author": "LeadiumX",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/admin-leadiumx/leadiumx-api-docs.git"
+  }
+}
